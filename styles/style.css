@@ -1,0 +1,27 @@
+a {
+    color: red;
+    font-size: 16px;
+  }
+
+  h1 {
+    color: rgb(77, 25, 144);
+    width: 580px;
+    border: 4px solid black;
+    text-align: center;
+    font-family: "Fantasy", Papyrus;
+  }
+  html {
+    font-size: 16px; /* px means "pixels": the base font size is now 10 pixels high  */
+    font-family: "Open Sans", sans-serif; /* this should be the rest of the output you got from Google fonts */
+  }
+  l1 {
+    font-size: 50px;
+    font-family: "Monospace", Courier New;
+  }
+  li {
+    font-size: 16px;
+    font-family: "Monospace", Courier New;
+}
+html {
+    background-color: #f0f793;
+  }
